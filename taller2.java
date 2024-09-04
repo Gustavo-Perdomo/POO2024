@@ -1,3 +1,5 @@
+//Escribir un programa que escriba por pantalla un numero al azar entre 0 y 99.
+//Gustavo Perdomo 
 package repositorio;
 import java.util.Random;
 
