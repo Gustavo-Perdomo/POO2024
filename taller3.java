@@ -1,4 +1,5 @@
 //Escribir un programa que escriba por pantalla dos números al azar entre 10 y 20
+//Gustavo Perdomo
 package repositorio;
     import java.util.Random;
     class taller3 {
