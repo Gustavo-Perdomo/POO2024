@@ -1,4 +1,5 @@
 //Pide un nombre y una edad. Luego nos dice por consola: "El señor/a XXXXX hace YYYY años que es mayor de edad".
+//Gustavo Perdomo 
 package repositorio;
 import java.util.Scanner;
 public class taller4 {
